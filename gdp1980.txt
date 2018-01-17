@@ -1,0 +1,158 @@
+﻿
+1	European Union 	$3.81 trillion 	1980	
+2	United States 	$2.77 trillion 	1980	
+3	Japan 	$1.09 trillion 	1980	
+	Group of 7 countries (G7) average 	$962.15 billion 	1980	
+4	Germany 	$919.61 billion 	1980	
+5	France 	$690.32 billion 	1980	
+6	United Kingdom 	$541.91 billion 	1980	
+7	Italy 	$459.83 billion 	1980	
+				
+8	Canada 	$268.89 billion 	1980	
+9	Brazil 	$235.02 billion 	1980	
+10	Spain 	$226.00 billion 	1980	
+	Heavily indebted countries average 	$194.95 billion 	1980	
+11	Mexico 	$194.36 billion 	1980	
+12	India 	$189.59 billion 	1980	
+13	China 	$189.40 billion 	1980	
+14	Netherlands 	$180.77 billion 	1980	
+15	Saudi Arabia 	$164.31 billion 	1980	
+16	Australia 	$149.83 billion 	1980	
+17	Sweden 	$132.06 billion 	1980	
+18	Belgium 	$125.29 billion 	1980	
+19	Switzerland 	$112.53 billion 	1980	
+20	Iran 	$90.04 billion 	1980	
+21	Austria 	$81.22 billion 	1980	
+22	South Africa 	$80.54 billion 	1980	
+	Former British colonies average 	$79.46 billion 	1980	
+23	Indonesia 	$78.01 billion 	1980	
+24	Argentina 	$76.96 billion 	1980	
+25	Denmark 	$69.71 billion 	1980	
+26	Turkey 	$68.79 billion 	1980	
+27	Venezuela 	$67.14 billion 	1980	
+28	Nigeria 	$64.20 billion 	1980	
+29	South Korea 	$63.83 billion 	1980	
+30	Norway 	$63.71 billion 	1980	
+	OPEC countries average 	$61.74 billion 	1980	
+31	Greece 	$54.19 billion 	1980	
+32	Finland 	$53.01 billion 	1980	
+33	Iraq 	$47.56 billion 	1980	
+	South Asia average 	$47.04 billion 	1980	
+34	United Arab Emirates 	$43.60 billion 	1980	
+35	Algeria 	$42.35 billion 	1980	
+	Middle Eastern and North Africa average 	$34.84 billion 	1980	
+36	Colombia 	$33.40 billion 	1980	
+37	Portugal 	$32.46 billion 	1980	
+38	Philippines 	$32.45 billion 	1980	
+39	Thailand 	$32.35 billion 	1980	
+	Former Spanish colonies average 	$29.83 billion 	1980	
+40	Hong Kong 	$28.86 billion 	1980	
+41	Kuwait 	$28.64 billion 	1980	
+42	Chile 	$27.57 billion 	1980	
+43	Malaysia 	$24.94 billion 	1980	
+44	Pakistan 	$23.69 billion 	1980	
+	Latin America and Caribbean average 	$23.54 billion 	1980	
+45	Egypt 	$22.91 billion 	1980	
+46	New Zealand 	$22.87 billion 	1980	
+47	Hungary 	$22.16 billion 	1980	
+48	Israel 	$21.78 billion 	1980	
+49	Ireland 	$21.36 billion 	1980	
+50	Peru 	$20.66 billion 	1980	
+51	Bulgaria 	$20.04 billion 	1980	
+52	Cuba 	$19.91 billion 	1980	
+53	Morocco 	$18.82 billion 	1980	
+54	Bangladesh 	$18.11 billion 	1980	
+55	Ecuador 	$17.88 billion 	1980	
+56	Puerto Rico 	$14.44 billion 	1980	
+57	Democratic Republic of the Congo 	$14.39 billion 	1980	
+58	Syria 	$13.06 billion 	1980	
+59	Singapore 	$11.86 billion 	1980	
+60	Cote d'Ivoire 	$10.18 billion 	1980	
+61	Uruguay 	$10.16 billion 	1980	
+62	Tunisia 	$8.74 billion 	1980	
+63	Guatemala 	$7.88 billion 	1980	
+64	Qatar 	$7.83 billion 	1980	
+65	Sudan 	$7.62 billion 	1980	
+66	Kenya 	$7.27 billion 	1980	
+67	Cameroon 	$6.74 billion 	1980	
+68	Zimbabwe 	$6.68 billion 	1980	
+69	Dominican Republic 	$6.63 billion 	1980	
+70	Trinidad and Tobago 	$6.24 billion 	1980	
+	Sub-Saharan Africa average 	$6.19 billion 	1980	
+71	Oman 	$5.98 billion 	1980	
+72	Luxembourg 	$5.97 billion 	1980	
+73	Brunei 	$4.93 billion 	1980	
+74	Costa Rica 	$4.83 billion 	1980	
+75	Bolivia 	$4.54 billion 	1980	
+76	Ghana 	$4.45 billion 	1980	
+77	Gabon 	$4.28 billion 	1980	
+78	Paraguay 	$4.09 billion 	1980	
+79	Madagascar 	$4.04 billion 	1980	
+80	Sri Lanka 	$4.02 billion 	1980	
+81	Jordan 	$3.96 billion 	1980	
+82	Zambia 	$3.88 billion 	1980	
+83	Panama 	$3.81 billion 	1980	
+84	Afghanistan 	$3.64 billion 	1980	
+85	Mozambique 	$3.53 billion 	1980	
+86	Senegal 	$3.50 billion 	1980	
+87	Iceland 	$3.33 billion 	1980	
+88	Bahrain 	$3.07 billion 	1980	
+89	Jamaica 	$2.68 billion 	1980	
+90	Honduras 	$2.57 billion 	1980	
+91	Papua New Guinea 	$2.55 billion 	1980	
+92	Niger 	$2.51 billion 	1980	
+93	Namibia 	$2.17 billion 	1980	
+94	Cyprus 	$2.15 billion 	1980	
+95	Nicaragua 	$2.14 billion 	1980	
+96	Nepal 	$1.95 billion 	1980	
+97	Burkina Faso 	$1.93 billion 	1980	
+98	Mali 	$1.79 billion 	1980	
+99	Republic of the Congo 	$1.71 billion 	1980	
+100	Benin 	$1.41 billion 	1980	
+101	Monaco 	$1.38 billion 	1980	
+102	French Polynesia 	$1.36 billion 	1980	
+103	The Bahamas 	$1.34 billion 	1980	
+104	Rwanda 	$1.25 billion 	1980	
+105	Malta 	$1.25 billion 	1980	
+106	Uganda 	$1.24 billion 	1980	
+107	Malawi 	$1.24 billion 	1980	
+108	Fiji 	$1.20 billion 	1980	
+109	New Caledonia 	$1.18 billion 	1980	
+110	Mauritius 	$1.14 billion 	1980	
+111	Togo 	$1.14 billion 	1980	
+112	Sierra Leone 	$1.10 billion 	1980	
+113	Botswana 	$1.06 billion 	1980	
+114	Chad 	$1.03 billion 	1980	
+115	Burundi 	$919.73 million 	1980	
+116	Barbados 	$860.44 million 	1980	
+117	Liberia 	$854.71 million 	1980	
+118	Central African Republic 	$797.05 million 	1980	
+119	Suriname 	$794.90 million 	1980	
+120	Mauritania 	$709.04 million 	1980	
+121	Bermuda 	$613.30 million 	1980	
+122	Somalia 	$603.59 million 	1980	
+123	Guyana 	$603.20 million 	1980	
+124	Swaziland 	$542.01 million 	1980	
+125	Liechtenstein 	$534.70 million 	1980	
+126	Greenland 	$476.05 million 	1980	
+127	Andorra 	$446.38 million 	1980	
+128	Lesotho 	$431.54 million 	1980	
+129	The Gambia 	$241.08 million 	1980	
+130	Belize 	$194.75 million 	1980	
+131	Solomon Islands 	$168.72 million 	1980	
+132	Seychelles 	$147.36 million 	1980	
+133	Cape Verde 	$142.25 million 	1980	
+134	Bhutan 	$135.65 million 	1980	
+135	Saint Lucia 	$133.41 million 	1980	
+136	Comoros 	$123.51 million 	1980	
+137	Vanuatu 	$113.42 million 	1980	
+138	Guinea-Bissau 	$110.65 million 	1980	
+139	Antigua and Barbuda 	$110.07 million 	1980	
+140	Grenada 	$83.61 million 	1980	
+141	Saint Vincent and the Grenadines 	$60.31 million 	1980	
+142	Dominica 	$59.10 million 	1980	
+143	Tonga 	$53.26 million 	1980	
+144	Saint Kitts and Nevis 	$48.00 million 	1980	
+145	Maldives 	$42.46 million 	1980	
+146	Kiribati 	$27.94 million 	1980	
+

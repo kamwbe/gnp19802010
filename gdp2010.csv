@@ -1,221 +1,221 @@
-country,gdp,year,What
-European Union,$16.23 trillion ,2010,
-United States,$14.42 trillion ,2010,
-China,$5.95 trillion ,2010,
-Japan,$5.50 trillion ,2010,
-Group of 7 countries (G7) average,$4.52 trillion ,2010,
-Germany,$3.28 trillion ,2010,
-France,$2.55 trillion ,2010,
-United Kingdom,$2.26 trillion ,2010,
-Brazil,$2.14 trillion ,2010,
-Italy,$2.04 trillion ,2010,
-India,$1.71 trillion ,2010,
-Canada,$1.58 trillion ,2010,
-Russia,$1.52 trillion ,2010,
-Non-religious countries average,$1.51 trillion ,2010,
-Spain,$1.38 trillion ,2010,
-High income OECD countries average,$1.32 trillion ,2010,
-Australia,$1.14 trillion ,2010,
-Mexico,$1.03 trillion ,2010,
-South Korea,$1.01 trillion ,2010,
-Cold countries average,$892.79 billion ,2010,
-Heavily indebted countries average,$851.92 billion ,2010,
-Netherlands,$774.66 billion ,2010,
-Turkey,$731.14 billion ,2010,
-Indonesia,$709.27 billion ,2010,
-Emerging markets average,$702.23 billion ,2010,
-Eurozone average,$672.04 billion ,2010,
-NATO countries average,$654.63 billion ,2010,
-European Union average,$579.77 billion ,2010,
-East Asia and Pacific average,$577.41 billion ,2010,
-Switzerland,$552.22 billion ,2010,
-Saudi Arabia,$526.81 billion ,2010,
-Poland,$469.74 billion ,2010,
-Belgium,$468.51 billion ,2010,
-Sweden,$462.90 billion ,2010,
-Former British colonies average,$436.27 billion ,2010,
-Europe average,$431.23 billion ,2010,
-Iran,$422.57 billion ,2010,
-Norway,$421.24 billion ,2010,
-South Asia average,$401.05 billion ,2010,
-Venezuela,$393.81 billion ,2010,
-Christian countries average,$376.85 billion ,2010,
-Austria,$376.84 billion ,2010,
-Argentina,$368.74 billion ,2010,
-South Africa,$363.24 billion ,2010,
-Catholic countries average,$348.54 billion ,2010,
-Thailand,$318.91 billion ,2010,
-Denmark,$313.37 billion ,2010,
-Greece,$292.30 billion ,2010,
-United Arab Emirates,$287.42 billion ,2010,
-Colombia,$287.02 billion ,2010,
-Religious countries average,$271.69 billion ,2010,
-OPEC countries average,$248.40 billion ,2010,
-Malaysia,$246.82 billion ,2010,
-Finland,$235.26 billion ,2010,
-Israel,$231.67 billion ,2010,
-Hong Kong,$228.70 billion ,2010,
-Nigeria,$228.64 billion ,2010,
-Portugal,$227.45 billion ,2010,
-Egypt,$218.89 billion ,2010,
-Chile,$217.31 billion ,2010,
-Singapore,$217.20 billion ,2010,
-Ireland,$205.90 billion ,2010,
-Philippines,$199.59 billion ,2010,
-Czech Republic,$198.48 billion ,2010,
-Pakistan,$176.48 billion ,2010,
-South and Central Asia average,$176.38 billion ,2010,
-Romania,$164.79 billion ,2010,
-Algeria,$161.78 billion ,2010,
-Former Spanish colonies average,$158.69 billion ,2010,
-Eastern Europe average,$153.66 billion ,2010,
-Peru,$153.54 billion ,2010,
-Middle Eastern and North Africa average,$153.17 billion ,2010,
-Kazakhstan,$148.05 billion ,2010,
-Latin America and Caribbean average,$147.65 billion ,2010,
-New Zealand,$139.77 billion ,2010,
-Former Soviet republics average,$139.72 billion ,2010,
-Ukraine,$136.42 billion ,2010,
-Iraq,$135.49 billion ,2010,
-Hungary,$127.96 billion ,2010,
-Qatar,$125.12 billion ,2010,
-Kuwait,$119.93 billion ,2010,
-Hot countries average,$117.82 billion ,2010,
-Muslim countries average,$113.83 billion ,2010,
-Vietnam,$106.43 billion ,2010,
-Potential Future EU Members average,$103.55 billion ,2010,
-Bangladesh,$100.36 billion ,2010,
-Puerto Rico,$97.15 billion ,2010,
-Morocco,$90.77 billion ,2010,
-Slovakia,$87.22 billion ,2010,
-Angola,$82.47 billion ,2010,
-Ecuador,$67.51 billion ,2010,
-Sudan,$64.79 billion ,2010,
-Syria,$59.15 billion ,2010,
-Croatia,$58.87 billion ,2010,
-Oman,$58.81 billion ,2010,
-Belarus,$55.22 billion ,2010,
-Azerbaijan,$52.91 billion ,2010,
-Luxembourg,$52.51 billion ,2010,
-Dominican Republic,$51.65 billion ,2010,
-Landlocked countries average,$50.51 billion ,2010,
-Sri Lanka,$49.57 billion ,2010,
-failed states average,$48.96 billion ,2010,
-Bulgaria,$47.73 billion ,2010,
-Slovenia,$47.00 billion ,2010,
-Tunisia,$44.38 billion ,2010,
-Guatemala,$41.34 billion ,2010,
-Uzbekistan,$38.98 billion ,2010,
-Uruguay,$38.85 billion ,2010,
-Lebanon,$37.12 billion ,2010,
-Serbia,$36.99 billion ,2010,
-Lithuania,$36.64 billion ,2010,
-Costa Rica,$36.35 billion ,2010,
-Kenya,$32.23 billion ,2010,
-Ghana,$32.17 billion ,2010,
-Yemen,$31.88 billion ,2010,
-Ethiopia,$29.71 billion ,2010,
-Macau,$28.36 billion ,2010,
-Former French colonies average,$27.21 billion ,2010,
-Panama,$26.59 billion ,2010,
-Jordan,$26.43 billion ,2010,
-Bahrain,$25.71 billion ,2010,
-Sub-Saharan Africa average,$24.63 billion ,2010,
-Latvia,$24.05 billion ,2010,
-Cyprus,$23.13 billion ,2010,
-Cote d'Ivoire,$22.92 billion ,2010,
-Tanzania,$22.92 billion ,2010,
-Turkmenistan,$22.58 billion ,2010,
-Cameroon,$22.49 billion ,2010,
-El Salvador,$21.42 billion ,2010,
-Trinidad and Tobago,$20.68 billion ,2010,
-Paraguay,$20.03 billion ,2010,
-Bolivia,$19.65 billion ,2010,
-Estonia,$18.85 billion ,2010,
-Uganda,$17.20 billion ,2010,
-Bosnia and Herzegovina,$16.78 billion ,2010,
-Zambia,$16.19 billion ,2010,
-Nepal,$15.96 billion ,2010,
-Afghanistan,$15.94 billion ,2010,
-Honduras,$15.84 billion ,2010,
-South Sudan,$14.97 billion ,2010,
-Gabon,$14.54 billion ,2010,
-Botswana,$13.75 billion ,2010,
-Jamaica,$13.20 billion ,2010,
-Democratic Republic of the Congo,$13.11 billion ,2010,
-Senegal,$12.86 billion ,2010,
-Iceland,$12.56 billion ,2010,
-Brunei,$12.37 billion ,2010,
-Equatorial Guinea,$12.26 billion ,2010,
-Republic of the Congo,$12.01 billion ,2010,
-Albania,$11.86 billion ,2010,
-Georgia,$11.64 billion ,2010,
-Cambodia,$11.24 billion ,2010,
-Namibia,$11.07 billion ,2010,
-Mauritius,$9.72 billion ,2010,
-Papua New Guinea,$9.48 billion ,2010,
-Mali,$9.42 billion ,2010,
-Republic of Macedonia,$9.34 billion ,2010,
-Mozambique,$9.27 billion ,2010,
-Armenia,$9.26 billion ,2010,
-Burkina Faso,$9.21 billion ,2010,
-Madagascar,$8.84 billion ,2010,
-Nicaragua,$8.59 billion ,2010,
-Chad,$8.54 billion ,2010,
-Malta,$8.16 billion ,2010,
-The Bahamas,$7.89 billion ,2010,
-Zimbabwe,$7.43 billion ,2010,
-Laos,$7.18 billion ,2010,
-Haiti,$6.63 billion ,2010,
-Benin,$6.56 billion ,2010,
-Mongolia,$6.20 billion ,2010,
-Moldova,$5.81 billion ,2010,
-Bermuda,$5.76 billion ,2010,
-Tajikistan,$5.64 billion ,2010,
-Rwanda,$5.62 billion ,2010,
-Kosovo,$5.59 billion ,2010,
-Niger,$5.41 billion ,2010,
-Malawi,$5.40 billion ,2010,
-Monaco,$5.35 billion ,2010,
-Kyrgyzstan,$4.79 billion ,2010,
-Guinea,$4.74 billion ,2010,
-Suriname,$4.37 billion ,2010,
-Montenegro,$4.11 billion ,2010,
-Barbados,$4.11 billion ,2010,
-Swaziland,$3.69 billion ,2010,
-Mauritania,$3.67 billion ,2010,
-Fiji,$3.17 billion ,2010,
-Togo,$3.17 billion ,2010,
-Sierra Leone,$2.58 billion ,2010,
-Aruba,$2.47 billion ,2010,
-Guyana,$2.26 billion ,2010,
-Lesotho,$2.20 billion ,2010,
-Maldives,$2.13 billion ,2010,
-Eritrea,$2.12 billion ,2010,
-Burundi,$2.03 billion ,2010,
-Central African Republic,$1.98 billion ,2010,
-Cape Verde,$1.66 billion ,2010,
-Bhutan,$1.59 billion ,2010,
-Belize,$1.40 billion ,2010,
-Liberia,$1.29 billion ,2010,
-Saint Lucia,$1.20 billion ,2010,
-Antigua and Barbuda,$1.14 billion ,2010,
-Seychelles,$973.34 million ,2010,
-The Gambia,$951.81 million ,2010,
-East Timor,$875.10 million ,2010,
-Guinea-Bissau,$835.39 million ,2010,
-Grenada,$769.71 million ,2010,
-Saint Kitts and Nevis,$715.47 million ,2010,
-Vanuatu,$700.80 million ,2010,
-Saint Vincent and the Grenadines,$680.96 million ,2010,
-Solomon Islands,$678.63 million ,2010,
-Samoa,$572.16 million ,2010,
-Comoros,$543.38 million ,2010,
-Dominica,$474.89 million ,2010,
-Tonga,$368.78 million ,2010,
-Federated States of Micronesia,$294.12 million ,2010,
-Sao Tome and Principe,$201.04 million ,2010,
-Palau,$196.54 million ,2010,
-Marshall Islands,$162.94 million ,2010,
-Kiribati,$141.61 million ,2010,
-Tuvalu,$31.82 million ,2010,
+country,gdp (in billions),year
+European Union,16230.0,2010
+United States,14420.0,2010
+China,5950.0,2010
+Japan,5500.0,2010
+Group of 7 countries (G7) average,4520.0,2010
+Germany,3280.0,2010
+France,2550.0,2010
+United Kingdom,2260.0,2010
+Brazil,2140.0,2010
+Italy,2040.0,2010
+India,1710.0,2010
+Canada,1580.0,2010
+Russia,1520.0,2010
+Non-religious countries average,1510.0,2010
+Spain,1380.0,2010
+High income OECD countries average,1320.0,2010
+Australia,1140.0,2010
+Mexico,1030.0,2010
+South Korea,1010.0,2010
+Cold countries average,892.79,2010
+Heavily indebted countries average,851.92,2010
+Netherlands,774.66,2010
+Turkey,731.14,2010
+Indonesia,709.27,2010
+Emerging markets average,702.23,2010
+Eurozone average,672.04,2010
+NATO countries average,654.63,2010
+European Union average,579.77,2010
+East Asia and Pacific average,577.41,2010
+Switzerland,552.22,2010
+Saudi Arabia,526.81,2010
+Poland,469.74,2010
+Belgium,468.51,2010
+Sweden,462.9,2010
+Former British colonies average,436.27,2010
+Europe average,431.23,2010
+Iran,422.57,2010
+Norway,421.24,2010
+South Asia average,401.05,2010
+Venezuela,393.81,2010
+Christian countries average,376.85,2010
+Austria,376.84,2010
+Argentina,368.74,2010
+South Africa,363.24,2010
+Catholic countries average,348.54,2010
+Thailand,318.91,2010
+Denmark,313.37,2010
+Greece,292.3,2010
+United Arab Emirates,287.42,2010
+Colombia,287.02,2010
+Religious countries average,271.69,2010
+OPEC countries average,248.4,2010
+Malaysia,246.82,2010
+Finland,235.26,2010
+Israel,231.67,2010
+Hong Kong,228.7,2010
+Nigeria,228.64,2010
+Portugal,227.45,2010
+Egypt,218.89,2010
+Chile,217.31,2010
+Singapore,217.2,2010
+Ireland,205.9,2010
+Philippines,199.59,2010
+Czech Republic,198.48,2010
+Pakistan,176.48,2010
+South and Central Asia average,176.38,2010
+Romania,164.79,2010
+Algeria,161.78,2010
+Former Spanish colonies average,158.69,2010
+Eastern Europe average,153.66,2010
+Peru,153.54,2010
+Middle Eastern and North Africa average,153.17,2010
+Kazakhstan,148.05,2010
+Latin America and Caribbean average,147.65,2010
+New Zealand,139.77,2010
+Former Soviet republics average,139.72,2010
+Ukraine,136.42,2010
+Iraq,135.49,2010
+Hungary,127.96,2010
+Qatar,125.12,2010
+Kuwait,119.93,2010
+Hot countries average,117.82,2010
+Muslim countries average,113.83,2010
+Vietnam,106.43,2010
+Potential Future EU Members average,103.55,2010
+Bangladesh,100.36,2010
+Puerto Rico,97.15,2010
+Morocco,90.77,2010
+Slovakia,87.22,2010
+Angola,82.47,2010
+Ecuador,67.51,2010
+Sudan,64.79,2010
+Syria,59.15,2010
+Croatia,58.87,2010
+Oman,58.81,2010
+Belarus,55.22,2010
+Azerbaijan,52.91,2010
+Luxembourg,52.51,2010
+Dominican Republic,51.65,2010
+Landlocked countries average,50.51,2010
+Sri Lanka,49.57,2010
+failed states average,48.96,2010
+Bulgaria,47.73,2010
+Slovenia,47.0,2010
+Tunisia,44.38,2010
+Guatemala,41.34,2010
+Uzbekistan,38.98,2010
+Uruguay,38.85,2010
+Lebanon,37.12,2010
+Serbia,36.99,2010
+Lithuania,36.64,2010
+Costa Rica,36.35,2010
+Kenya,32.23,2010
+Ghana,32.17,2010
+Yemen,31.88,2010
+Ethiopia,29.71,2010
+Macau,28.36,2010
+Former French colonies average,27.21,2010
+Panama,26.59,2010
+Jordan,26.43,2010
+Bahrain,25.71,2010
+Sub-Saharan Africa average,24.63,2010
+Latvia,24.05,2010
+Cyprus,23.13,2010
+Cote d'Ivoire,22.92,2010
+Tanzania,22.92,2010
+Turkmenistan,22.58,2010
+Cameroon,22.49,2010
+El Salvador,21.42,2010
+Trinidad and Tobago,20.68,2010
+Paraguay,20.03,2010
+Bolivia,19.65,2010
+Estonia,18.85,2010
+Uganda,17.2,2010
+Bosnia and Herzegovina,16.78,2010
+Zambia,16.19,2010
+Nepal,15.96,2010
+Afghanistan,15.94,2010
+Honduras,15.84,2010
+South Sudan,14.97,2010
+Gabon,14.54,2010
+Botswana,13.75,2010
+Jamaica,13.2,2010
+Democratic Republic of the Congo,13.11,2010
+Senegal,12.86,2010
+Iceland,12.56,2010
+Brunei,12.37,2010
+Equatorial Guinea,12.26,2010
+Republic of the Congo,12.01,2010
+Albania,11.86,2010
+Georgia,11.64,2010
+Cambodia,11.24,2010
+Namibia,11.07,2010
+Mauritius,9.72,2010
+Papua New Guinea,9.48,2010
+Mali,9.42,2010
+Republic of Macedonia,9.34,2010
+Mozambique,9.27,2010
+Armenia,9.26,2010
+Burkina Faso,9.21,2010
+Madagascar,8.84,2010
+Nicaragua,8.59,2010
+Chad,8.54,2010
+Malta,8.16,2010
+The Bahamas,7.89,2010
+Zimbabwe,7.43,2010
+Laos,7.18,2010
+Haiti,6.63,2010
+Benin,6.56,2010
+Mongolia,6.2,2010
+Moldova,5.81,2010
+Bermuda,5.76,2010
+Tajikistan,5.64,2010
+Rwanda,5.62,2010
+Kosovo,5.59,2010
+Niger,5.41,2010
+Malawi,5.4,2010
+Monaco,5.35,2010
+Kyrgyzstan,4.79,2010
+Guinea,4.74,2010
+Suriname,4.37,2010
+Montenegro,4.11,2010
+Barbados,4.11,2010
+Swaziland,3.69,2010
+Mauritania,3.67,2010
+Fiji,3.17,2010
+Togo,3.17,2010
+Sierra Leone,2.58,2010
+Aruba,2.47,2010
+Guyana,2.26,2010
+Lesotho,2.2,2010
+Maldives,2.13,2010
+Eritrea,2.12,2010
+Burundi,2.03,2010
+Central African Republic,1.98,2010
+Cape Verde,1.66,2010
+Bhutan,1.59,2010
+Belize,1.4,2010
+Liberia,1.29,2010
+Saint Lucia,1.2,2010
+Antigua and Barbuda,1.14,2010
+Seychelles,0.97334,2010
+The Gambia,0.95181,2010
+East Timor,0.8751,2010
+Guinea-Bissau,0.83539,2010
+Grenada,0.76971,2010
+Saint Kitts and Nevis,0.7154699999999999,2010
+Vanuatu,0.7008,2010
+Saint Vincent and the Grenadines,0.68096,2010
+Solomon Islands,0.6786300000000001,2010
+Samoa,0.57216,2010
+Comoros,0.54338,2010
+Dominica,0.47489,2010
+Tonga,0.36878,2010
+Federated States of Micronesia,0.29412,2010
+Sao Tome and Principe,0.20104,2010
+Palau,0.19654000000000002,2010
+Marshall Islands,0.16294,2010
+Kiribati,0.14160999999999999,2010
+Tuvalu,0.03182,2010
