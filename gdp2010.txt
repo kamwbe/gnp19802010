@@ -1,0 +1,222 @@
+country	gdp	year	xxx﻿
+1	European Union 	$16.23 trillion 	2010	
+2	United States 	$14.42 trillion 	2010	
+3	China 	$5.95 trillion 	2010	
+4	Japan 	$5.50 trillion 	2010	
+	Group of 7 countries (G7) average 	$4.52 trillion 	2010	
+5	Germany 	$3.28 trillion 	2010	
+6	France 	$2.55 trillion 	2010	
+7	United Kingdom 	$2.26 trillion 	2010	
+8	Brazil 	$2.14 trillion 	2010	
+9	Italy 	$2.04 trillion 	2010	
+10	India 	$1.71 trillion 	2010	
+11	Canada 	$1.58 trillion 	2010	
+12	Russia 	$1.52 trillion 	2010	
+	Non-religious countries average 	$1.51 trillion 	2010	
+13	Spain 	$1.38 trillion 	2010	
+	High income OECD countries average 	$1.32 trillion 	2010	
+14	Australia 	$1.14 trillion 	2010	
+15	Mexico 	$1.03 trillion 	2010	
+16	South Korea 	$1.01 trillion 	2010	
+	Cold countries average 	$892.79 billion 	2010	
+	Heavily indebted countries average 	$851.92 billion 	2010	
+17	Netherlands 	$774.66 billion 	2010	
+18	Turkey 	$731.14 billion 	2010	
+19	Indonesia 	$709.27 billion 	2010	
+	Emerging markets average 	$702.23 billion 	2010	
+	Eurozone average 	$672.04 billion 	2010	
+	NATO countries average 	$654.63 billion 	2010	
+	European Union average 	$579.77 billion 	2010	
+	East Asia and Pacific average 	$577.41 billion 	2010	
+20	Switzerland 	$552.22 billion 	2010	
+21	Saudi Arabia 	$526.81 billion 	2010	
+22	Poland 	$469.74 billion 	2010	
+23	Belgium 	$468.51 billion 	2010	
+24	Sweden 	$462.90 billion 	2010	
+	Former British colonies average 	$436.27 billion 	2010	
+	Europe average 	$431.23 billion 	2010	
+25	Iran 	$422.57 billion 	2010	
+26	Norway 	$421.24 billion 	2010	
+	South Asia average 	$401.05 billion 	2010	
+27	Venezuela 	$393.81 billion 	2010	
+	Christian countries average 	$376.85 billion 	2010	
+28	Austria 	$376.84 billion 	2010	
+29	Argentina 	$368.74 billion 	2010	
+30	South Africa 	$363.24 billion 	2010	
+	Catholic countries average 	$348.54 billion 	2010	
+31	Thailand 	$318.91 billion 	2010	
+32	Denmark 	$313.37 billion 	2010	
+33	Greece 	$292.30 billion 	2010	
+34	United Arab Emirates 	$287.42 billion 	2010	
+35	Colombia 	$287.02 billion 	2010	
+	Religious countries average 	$271.69 billion 	2010	
+	OPEC countries average 	$248.40 billion 	2010	
+36	Malaysia 	$246.82 billion 	2010	
+37	Finland 	$235.26 billion 	2010	
+38	Israel 	$231.67 billion 	2010	
+39	Hong Kong 	$228.70 billion 	2010	
+40	Nigeria 	$228.64 billion 	2010	
+41	Portugal 	$227.45 billion 	2010	
+42	Egypt 	$218.89 billion 	2010	
+43	Chile 	$217.31 billion 	2010	
+44	Singapore 	$217.20 billion 	2010	
+45	Ireland 	$205.90 billion 	2010	
+46	Philippines 	$199.59 billion 	2010	
+47	Czech Republic 	$198.48 billion 	2010	
+48	Pakistan 	$176.48 billion 	2010	
+	South and Central Asia average 	$176.38 billion 	2010	
+49	Romania 	$164.79 billion 	2010	
+50	Algeria 	$161.78 billion 	2010	
+	Former Spanish colonies average 	$158.69 billion 	2010	
+	Eastern Europe average 	$153.66 billion 	2010	
+51	Peru 	$153.54 billion 	2010	
+	Middle Eastern and North Africa average 	$153.17 billion 	2010	
+52	Kazakhstan 	$148.05 billion 	2010	
+	Latin America and Caribbean average 	$147.65 billion 	2010	
+53	New Zealand 	$139.77 billion 	2010	
+	Former Soviet republics average 	$139.72 billion 	2010	
+54	Ukraine 	$136.42 billion 	2010	
+55	Iraq 	$135.49 billion 	2010	
+56	Hungary 	$127.96 billion 	2010	
+57	Qatar 	$125.12 billion 	2010	
+58	Kuwait 	$119.93 billion 	2010	
+	Hot countries average 	$117.82 billion 	2010	
+	Muslim countries average 	$113.83 billion 	2010	
+59	Vietnam 	$106.43 billion 	2010	
+	Potential Future EU Members average 	$103.55 billion 	2010	
+60	Bangladesh 	$100.36 billion 	2010	
+61	Puerto Rico 	$97.15 billion 	2010	
+62	Morocco 	$90.77 billion 	2010	
+63	Slovakia 	$87.22 billion 	2010	
+64	Angola 	$82.47 billion 	2010	
+65	Ecuador 	$67.51 billion 	2010	
+66	Sudan 	$64.79 billion 	2010	
+67	Syria 	$59.15 billion 	2010	
+68	Croatia 	$58.87 billion 	2010	
+69	Oman 	$58.81 billion 	2010	
+70	Belarus 	$55.22 billion 	2010	
+71	Azerbaijan 	$52.91 billion 	2010	
+72	Luxembourg 	$52.51 billion 	2010	
+73	Dominican Republic 	$51.65 billion 	2010	
+	Landlocked countries average 	$50.51 billion 	2010	
+74	Sri Lanka 	$49.57 billion 	2010	
+	failed states average 	$48.96 billion 	2010	
+75	Bulgaria 	$47.73 billion 	2010	
+76	Slovenia 	$47.00 billion 	2010	
+77	Tunisia 	$44.38 billion 	2010	
+78	Guatemala 	$41.34 billion 	2010	
+79	Uzbekistan 	$38.98 billion 	2010	
+80	Uruguay 	$38.85 billion 	2010	
+81	Lebanon 	$37.12 billion 	2010	
+82	Serbia 	$36.99 billion 	2010	
+83	Lithuania 	$36.64 billion 	2010	
+84	Costa Rica 	$36.35 billion 	2010	
+85	Kenya 	$32.23 billion 	2010	
+86	Ghana 	$32.17 billion 	2010	
+87	Yemen 	$31.88 billion 	2010	
+88	Ethiopia 	$29.71 billion 	2010	
+89	Macau 	$28.36 billion 	2010	
+	Former French colonies average 	$27.21 billion 	2010	
+90	Panama 	$26.59 billion 	2010	
+91	Jordan 	$26.43 billion 	2010	
+92	Bahrain 	$25.71 billion 	2010	
+	Sub-Saharan Africa average 	$24.63 billion 	2010	
+93	Latvia 	$24.05 billion 	2010	
+94	Cyprus 	$23.13 billion 	2010	
+95	Cote d'Ivoire 	$22.92 billion 	2010	
+96	Tanzania 	$22.92 billion 	2010	
+97	Turkmenistan 	$22.58 billion 	2010	
+98	Cameroon 	$22.49 billion 	2010	
+99	El Salvador 	$21.42 billion 	2010	
+100	Trinidad and Tobago 	$20.68 billion 	2010	
+101	Paraguay 	$20.03 billion 	2010	
+102	Bolivia 	$19.65 billion 	2010	
+103	Estonia 	$18.85 billion 	2010	
+104	Uganda 	$17.20 billion 	2010	
+105	Bosnia and Herzegovina 	$16.78 billion 	2010	
+106	Zambia 	$16.19 billion 	2010	
+107	Nepal 	$15.96 billion 	2010	
+108	Afghanistan 	$15.94 billion 	2010	
+109	Honduras 	$15.84 billion 	2010	
+110	South Sudan 	$14.97 billion 	2010	
+111	Gabon 	$14.54 billion 	2010	
+112	Botswana 	$13.75 billion 	2010	
+113	Jamaica 	$13.20 billion 	2010	
+114	Democratic Republic of the Congo 	$13.11 billion 	2010	
+115	Senegal 	$12.86 billion 	2010	
+116	Iceland 	$12.56 billion 	2010	
+117	Brunei 	$12.37 billion 	2010	
+118	Equatorial Guinea 	$12.26 billion 	2010	
+119	Republic of the Congo 	$12.01 billion 	2010	
+120	Albania 	$11.86 billion 	2010	
+121	Georgia 	$11.64 billion 	2010	
+122	Cambodia 	$11.24 billion 	2010	
+123	Namibia 	$11.07 billion 	2010	
+124	Mauritius 	$9.72 billion 	2010	
+125	Papua New Guinea 	$9.48 billion 	2010	
+126	Mali 	$9.42 billion 	2010	
+127	Republic of Macedonia 	$9.34 billion 	2010	
+128	Mozambique 	$9.27 billion 	2010	
+129	Armenia 	$9.26 billion 	2010	
+130	Burkina Faso 	$9.21 billion 	2010	
+131	Madagascar 	$8.84 billion 	2010	
+132	Nicaragua 	$8.59 billion 	2010	
+133	Chad 	$8.54 billion 	2010	
+134	Malta 	$8.16 billion 	2010	
+135	The Bahamas 	$7.89 billion 	2010	
+136	Zimbabwe 	$7.43 billion 	2010	
+137	Laos 	$7.18 billion 	2010	
+138	Haiti 	$6.63 billion 	2010	
+139	Benin 	$6.56 billion 	2010	
+140	Mongolia 	$6.20 billion 	2010	
+141	Moldova 	$5.81 billion 	2010	
+142	Bermuda 	$5.76 billion 	2010	
+143	Tajikistan 	$5.64 billion 	2010	
+144	Rwanda 	$5.62 billion 	2010	
+145	Kosovo 	$5.59 billion 	2010	
+146	Niger 	$5.41 billion 	2010	
+147	Malawi 	$5.40 billion 	2010	
+148	Monaco 	$5.35 billion 	2010	
+149	Kyrgyzstan 	$4.79 billion 	2010	
+150	Guinea 	$4.74 billion 	2010	
+151	Suriname 	$4.37 billion 	2010	
+152	Montenegro 	$4.11 billion 	2010	
+153	Barbados 	$4.11 billion 	2010	
+154	Swaziland 	$3.69 billion 	2010	
+155	Mauritania 	$3.67 billion 	2010	
+156	Fiji 	$3.17 billion 	2010	
+157	Togo 	$3.17 billion 	2010	
+158	Sierra Leone 	$2.58 billion 	2010	
+159	Aruba 	$2.47 billion 	2010	
+160	Guyana 	$2.26 billion 	2010	
+161	Lesotho 	$2.20 billion 	2010	
+162	Maldives 	$2.13 billion 	2010	
+163	Eritrea 	$2.12 billion 	2010	
+164	Burundi 	$2.03 billion 	2010	
+165	Central African Republic 	$1.98 billion 	2010	
+166	Cape Verde 	$1.66 billion 	2010	
+167	Bhutan 	$1.59 billion 	2010	
+168	Belize 	$1.40 billion 	2010	
+169	Liberia 	$1.29 billion 	2010	
+170	Saint Lucia 	$1.20 billion 	2010	
+171	Antigua and Barbuda 	$1.14 billion 	2010	
+172	Seychelles 	$973.34 million 	2010	
+173	The Gambia 	$951.81 million 	2010	
+174	East Timor 	$875.10 million 	2010	
+175	Guinea-Bissau 	$835.39 million 	2010	
+176	Grenada 	$769.71 million 	2010	
+177	Saint Kitts and Nevis 	$715.47 million 	2010	
+178	Vanuatu 	$700.80 million 	2010	
+179	Saint Vincent and the Grenadines 	$680.96 million 	2010	
+180	Solomon Islands 	$678.63 million 	2010	
+181	Samoa 	$572.16 million 	2010	
+182	Comoros 	$543.38 million 	2010	
+183	Dominica 	$474.89 million 	2010	
+184	Tonga 	$368.78 million 	2010	
+185	Federated States of Micronesia 	$294.12 million 	2010	
+186	Sao Tome and Principe 	$201.04 million 	2010	
+187	Palau 	$196.54 million 	2010	
+188	Marshall Islands 	$162.94 million 	2010	
+189	Kiribati 	$141.61 million 	2010	
+190	Tuvalu 	$31.82 million 	2010	
+
