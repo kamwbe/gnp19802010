@@ -1,0 +1,274 @@
+"Region, subregion, country or area *",Country code,1980
+WORLD,900,4458412.0
+More developed regions,901,1084244.0
+Less developed regions,902,3374167.0
+Least developed countries,941,393279.0
+"Less developed regions, excluding least developed countries",934,2980888.0
+"Less developed regions, excluding China",948,2357419.0
+High-income countries,1503,929939.0
+Middle-income countries,1517,3275988.0
+Upper-middle-income countries,1502,1751425.0
+Lower-middle-income countries,1501,1524562.0
+Low-income countries,1500,250969.0
+Sub-Saharan Africa,947,372310.0
+AFRICA,903,480012.0
+Eastern Africa,910,147519.0
+Burundi,108,4117.0
+Comoros,174,308.0
+Djibouti,262,359.0
+Eritrea,232,2386.0
+Ethiopia,231,35265.0
+Kenya,404,16269.0
+Madagascar,450,8717.0
+Malawi,454,6163.0
+Mauritius,480,966.0
+Mayotte,175,55.0
+Mozambique,508,11848.0
+Réunion,638,509.0
+Rwanda,646,5141.0
+Seychelles,690,66.0
+Somalia,706,6359.0
+South Sudan,728,4705.0
+Uganda,800,12550.0
+United Republic of Tanzania,834,18683.0
+Zambia,894,5889.0
+Zimbabwe,716,7164.0
+Middle Africa,911,53617.0
+Angola,24,8930.0
+Cameroon,120,8618.0
+Central African Republic,140,2280.0
+Chad,148,4512.0
+Congo,178,1840.0
+Democratic Republic of the Congo,180,26357.0
+Equatorial Guinea,226,255.0
+Gabon,266,729.0
+Sao Tome and Principe,678,95.0
+Northern Africa,912,107703.0
+Algeria,12,19338.0
+Egypt,818,44099.0
+Libya,434,3219.0
+Morocco,504,20020.0
+Sudan,729,14507.0
+Tunisia,788,6368.0
+Western Sahara,732,151.0
+Southern Africa,913,33688.0
+Botswana,72,1001.0
+Lesotho,426,1310.0
+Namibia,516,1013.0
+South Africa,710,29760.0
+Swaziland,748,603.0
+Western Africa,914,137486.0
+Benin,204,3717.0
+Burkina Faso,854,6823.0
+Cabo Verde,132,287.0
+Côte d'Ivoire,384,8294.0
+Gambia,270,604.0
+Ghana,288,10802.0
+Guinea,324,4512.0
+Guinea-Bissau,624,801.0
+Liberia,430,1888.0
+Mali,466,7090.0
+Mauritania,478,1534.0
+Niger,562,5989.0
+Nigeria,566,73461.0
+Saint Helena,654,5.0
+Senegal,686,5593.0
+Sierra Leone,694,3365.0
+Togo,768,2721.0
+ASIA,935,2642489.0
+Eastern Asia,906,1191788.0
+China,156,993877.0
+"China, Hong Kong SAR",344,4915.0
+"China, Macao SAR",446,238.0
+"China, Taiwan Province of China",158,17717.0
+Dem. People's Republic of Korea,408,17472.0
+Japan,392,117827.0
+Mongolia,496,1690.0
+Republic of Korea,410,38050.0
+South-Central Asia,921,979984.0
+Central Asia,5500,41239.0
+Kazakhstan,398,14906.0
+Kyrgyzstan,417,3611.0
+Tajikistan,762,3905.0
+Turkmenistan,795,2877.0
+Uzbekistan,860,15940.0
+Southern Asia,5501,938745.0
+Afghanistan,4,13248.0
+Bangladesh,50,81471.0
+Bhutan,64,409.0
+India,356,696784.0
+Iran (Islamic Republic of),364,38668.0
+Maldives,462,158.0
+Nepal,524,14902.0
+Pakistan,586,78068.0
+Sri Lanka,144,15036.0
+South-Eastern Asia,920,356956.0
+Brunei Darussalam,96,194.0
+Cambodia,116,6692.0
+Indonesia,360,147490.0
+Lao People's Democratic Republic,418,3258.0
+Malaysia,458,13798.0
+Myanmar,104,33370.0
+Philippines,608,47397.0
+Singapore,702,2412.0
+Thailand,764,47385.0
+Timor-Leste,626,588.0
+Viet Nam,704,54373.0
+Western Asia,922,113761.0
+Armenia,51,3100.0
+Azerbaijan,31,6151.0
+Bahrain,48,360.0
+Cyprus,196,685.0
+Georgia,268,5018.0
+Iraq,368,13653.0
+Israel,376,3745.0
+Jordan,400,2374.0
+Kuwait,414,1372.0
+Lebanon,422,2605.0
+Oman,512,1154.0
+Qatar,634,224.0
+Saudi Arabia,682,9741.0
+State of Palestine,275,1509.0
+Syrian Arab Republic,760,8931.0
+Turkey,792,43976.0
+United Arab Emirates,784,1042.0
+Yemen,887,8120.0
+EUROPE,908,694207.0
+Eastern Europe,923,294798.0
+Belarus,112,9634.0
+Bulgaria,100,8879.0
+Czechia,203,10349.0
+Hungary,348,10755.0
+Poland,616,35535.0
+Republic of Moldova,498,4010.0
+Romania,642,22612.0
+Russian Federation,643,138059.0
+Slovakia,703,4997.0
+Ukraine,804,49969.0
+Northern Europe,924,89905.0
+Channel Islands,830,128.0
+Denmark,208,5124.0
+Estonia,233,1474.0
+Faeroe Islands,234,44.0
+Finland,246,4788.0
+Iceland,352,228.0
+Ireland,372,3435.0
+Isle of Man,833,64.0
+Latvia,428,2521.0
+Lithuania,440,3431.0
+Norway,578,4086.0
+Sweden,752,8316.0
+United Kingdom,826,56265.0
+Southern Europe,925,138785.0
+Albania,8,2681.0
+Andorra,20,36.0
+Bosnia and Herzegovina,70,4180.0
+Croatia,191,4598.0
+Gibraltar,292,30.0
+Greece,300,9635.0
+Holy See,336,1.0
+Italy,380,56419.0
+Malta,470,333.0
+Montenegro,499,581.0
+Portugal,620,9805.0
+San Marino,674,21.0
+Serbia,688,8908.0
+Slovenia,705,1836.0
+Spain,724,37797.0
+TFYR Macedonia,807,1924.0
+Western Europe,926,170719.0
+Austria,40,7610.0
+Belgium,56,9869.0
+France,250,54071.0
+Germany,276,78301.0
+Liechtenstein,438,26.0
+Luxembourg,442,364.0
+Monaco,492,27.0
+Netherlands,528,14148.0
+Switzerland,756,6304.0
+LATIN AMERICA AND THE CARIBBEAN,904,364284.0
+Caribbean,915,29772.0
+Anguilla,660,7.0
+Antigua and Barbuda,28,73.0
+Aruba,533,60.0
+Bahamas,44,211.0
+Barbados,52,252.0
+British Virgin Islands,92,11.0
+Caribbean Netherlands,535,11.0
+Cayman Islands,136,16.0
+Cuba,192,9835.0
+Curaçao,531,148.0
+Dominica,212,75.0
+Dominican Republic,214,5809.0
+Grenada,308,89.0
+Guadeloupe,312,330.0
+Haiti,332,5689.0
+Jamaica,388,2163.0
+Martinique,474,325.0
+Montserrat,500,12.0
+Puerto Rico,630,3188.0
+Saint Kitts and Nevis,659,43.0
+Saint Lucia,662,118.0
+Saint Vincent and the Grenadines,670,101.0
+Sint Maarten (Dutch part),534,13.0
+Trinidad and Tobago,780,1085.0
+Turks and Caicos Islands,796,8.0
+United States Virgin Islands,850,99.0
+Central America,916,92665.0
+Belize,84,144.0
+Costa Rica,188,2389.0
+El Salvador,222,4581.0
+Guatemala,320,7283.0
+Honduras,340,3678.0
+Mexico,484,69361.0
+Nicaragua,558,3250.0
+Panama,591,1979.0
+South America,931,241847.0
+Argentina,32,28106.0
+Bolivia (Plurinational State of),68,5590.0
+Brazil,76,121160.0
+Chile,152,11266.0
+Colombia,170,27738.0
+Ecuador,218,7976.0
+Falkland Islands (Malvinas),238,2.0
+French Guiana,254,67.0
+Guyana,328,780.0
+Paraguay,600,3181.0
+Peru,604,17359.0
+Suriname,740,363.0
+Uruguay,858,2916.0
+Venezuela (Bolivarian Republic of),862,15344.0
+NORTHERN AMERICA,905,254414.0
+Bermuda,60,57.0
+Canada,124,24537.0
+Greenland,304,50.0
+Saint Pierre and Miquelon,666,6.0
+United States of America,840,229763.0
+OCEANIA,909,23005.0
+Australia/New Zealand,927,17796.0
+Australia,36,14649.0
+New Zealand,554,3147.0
+Melanesia,928,4431.0
+Fiji,242,635.0
+New Caledonia,540,145.0
+Papua New Guinea,598,3304.0
+Solomon Islands,90,231.0
+Vanuatu,548,116.0
+Micronesia,954,304.0
+Guam,316,104.0
+Kiribati,296,59.0
+Marshall Islands,584,31.0
+Micronesia (Fed. States of),583,73.0
+Nauru,520,7.0
+Northern Mariana Islands,580,17.0
+Palau,585,12.0
+Polynesia,957,475.0
+American Samoa,16,32.0
+Cook Islands,184,18.0
+French Polynesia,258,152.0
+Niue,570,3.0
+Samoa,882,156.0
+Tokelau,772,2.0
+Tonga,776,93.0
+Tuvalu,798,8.0
+Wallis and Futuna Islands,876,11.0
